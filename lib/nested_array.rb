@@ -9,12 +9,17 @@ ORGANIC_PRODUCE = [
 ]
 
 CONVENTIONAL_PRODUCE = [
-  
+  "Grapefruit",
+  "Pineapple",
+  "Oranges",
+  "Watermelon",
+  "Eggplant"
 
 ]
 
 def assembled_matrix
   CONVENTIONAL_PRODUCE = [
+    
     ]
 
   array1 = [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE]
